@@ -11,8 +11,14 @@ A separate **decryption script** is provided to decrypt and load the data.
 
 ## Project Structure  
 📂 Project Directory
+
 │-- 📜 decrypter.py # Script to decrypt the dataset
+
+
 │-- 📜 main.ipynb # Jupyter Notebook for training & evaluation
+
 │-- 📜 dataset.npz # Encrypted dataset
+
 │-- 📜 README.md # Project documentation
+
 │-- 📜 requirements.txt # Dependencies
