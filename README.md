@@ -25,7 +25,7 @@ A separate **decryption script** is provided to decrypt and load the data.
 
 Main Libraries Used:
 
-numpy
-pandas
-matplotlib
+numpy  
+pandas  
+matplotlib  
 
